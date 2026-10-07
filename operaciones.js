@@ -6,6 +6,14 @@ let suma = numero1 + numero2;
 //console.log(numero1 + numero2);
 console.log("La suma es: " + suma);
 
+//Incremento: ++
+numero1++; //numero1 = numero1 + 1
+console.log("El incremento es: " + numero1);
+
+//Decremento: --
+numero2--; //numero2 = numero2 - 1
+console.log("El decremento es: " + numero2);
+
 //Resta: -
 let resta = numero1 - numero2;
 console.log("La resta es: " + resta);
